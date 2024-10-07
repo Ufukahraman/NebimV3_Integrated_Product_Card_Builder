@@ -1,0 +1,15 @@
+# .NET bin ve obj klasörleri
+bin/
+obj/
+
+# Kullanýcý bazlý ayarlar dosyalarý
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Uygulama yapýlandýrmalarý
+App.config
+
+# Baþka yapýlandýrmalar
+appsettings.json
