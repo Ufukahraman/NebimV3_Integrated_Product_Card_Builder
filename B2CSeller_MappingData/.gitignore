@@ -1,15 +1,17 @@
-# .NET bin ve obj klasörleri
+# .NET bin ve obj klasÃ¶rleri
 bin/
 obj/
 
-# Kullanıcı bazlı ayarlar dosyaları
+# KullanÄ±cÄ± bazlÄ± ayarlar dosyalarÄ±
 *.user
 *.suo
 *.userosscache
 *.sln.docstates
 
-# Uygulama yapılandırmaları
+# Uygulama yapÄ±landÄ±rmalarÄ±
 App.config
+.env
+.vs
 
-# Başka yapılandırmalar
+# BaÅŸka yapÄ±landÄ±rmalar
 appsettings.json
